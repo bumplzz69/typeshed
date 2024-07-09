@@ -4,3 +4,4 @@ flake8==3.6.0
 flake8-bugbear==18.8.0
 flake8-pyi==18.3.1
 pytype>=2018.9.19
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
